@@ -1,6 +1,7 @@
 # GUI IN DOCKER
 
 Running GUI Apps inside Docker Container
+You only need to clone the repository and run the bash shell script
 
 ### Installation:
 Clone the Repo
