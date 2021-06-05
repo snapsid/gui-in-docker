@@ -30,13 +30,23 @@ $ ./gui.sh
 $ os1
 ```
 
-### enter image name
+### enter any image name 
 
 ```
 $ centos:latest
 ```
 
+### install any gui program
 
+```
+$ yum install firefox -y
+```
+
+### run gui program inside docker 
+
+```
+$ firefox
+```
 
    
 
